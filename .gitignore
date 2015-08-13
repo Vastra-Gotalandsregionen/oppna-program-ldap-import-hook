@@ -1,0 +1,12 @@
+/core-bc/modules/hook/src/main/resources/rebel.xml
+
+.DS_Store
+
+.settings
+.settings/*
+.classpath
+.project
+
+core-bc/modules/hook/target/*
+core-bc/modules/hook/.settings/*
+
